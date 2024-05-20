@@ -1,3 +1,4 @@
+#Write a program to see the students result in class when marks are entered
 marks = int(input("Enter your marks: "))
 if (marks >=60):
     print("Result- First Class")
