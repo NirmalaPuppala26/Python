@@ -1,3 +1,4 @@
+# write a program to find whether a given number is armstrong or not
 n = int(input("Enter a number: "))
 t=n
 sum=0
