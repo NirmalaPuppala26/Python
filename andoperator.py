@@ -1,3 +1,4 @@
+//write a program to using "AND" operator
 a=10
 b=78
 c=99
