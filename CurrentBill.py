@@ -1,4 +1,4 @@
-//Write a progam to calculate the current or power bill in India using python
+#Write a progam to calculate the current or power bill in India using python
 pmr = int(input("Enter the PMR value: "))
 cmr = int(input("Enter the CMR value: "))
 unitsConsumed = cmr-pmr
