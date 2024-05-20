@@ -1,3 +1,4 @@
+#write a program to calculate the amount left in the bank account after taking some amount 
 bankbalance = 10000
 amount = int(input("Enter the amount: "))
 if (amount<=bankbalance):
