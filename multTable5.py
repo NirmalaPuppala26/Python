@@ -1,3 +1,4 @@
+#write a program to give multiplication tables from 1 to 5
 import sys
 n = int(input("Enter a number: "))
 
