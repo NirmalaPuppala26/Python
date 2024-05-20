@@ -1,3 +1,4 @@
+#write a program to see whether a person is qualified for Police job in India
 height = int(input("Enter the height of the candidate in inches: "))
 runtime = int(input("Enter the running time of the candidate in seconds: "))
 marks = int(input("Enter the marks of the candidate out of 100: "))
